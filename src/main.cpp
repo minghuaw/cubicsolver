@@ -8,6 +8,7 @@
 int solve_cubic(double d, double c, double b, double a, double out[]) {
 
    // YOUR CODE HERE //
+   // Edit here //
    // See README.md for hints //
 
 }
